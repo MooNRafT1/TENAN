@@ -1,9 +1,9 @@
 {
-    "TOKEN": "", 
+    "TOKEN": "MTEwMDQxNTI2MjEyNzMwODg4MA.GRpaK2.s1qf26prI7F0VLmnuX1e0cjC8fiVZWwwcwnrXY", 
     "MAINTENANCEMODE": false,
     "PROTECTEDUSERID": "",
     "PROTECTEDGUILDID": "",
     "PUBLISHCOMMANDS": false,
-    "DEFAULTPREFIX": ".",
+    "DEFAULTPREFIX": "+",
     "TIMEOUTWAITAMOUNT": 3
 }
